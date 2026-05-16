@@ -4,18 +4,6 @@ Site informativo e interativo sobre a Copa do Mundo FIFA 2026, com álbum digita
 
 ---
 
-## 📁 Estrutura de arquivos
-
-```
-/
-├── index.html     → Estrutura HTML da página
-├── styles.css     → Todos os estilos visuais (CSS)
-├── script.js      → Dados do álbum e lógica interativa (JS)
-└── README.md      → Este arquivo
-```
-
----
-
 ## 📌 Seções do site
 
 | Seção | Descrição |
