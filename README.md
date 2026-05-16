@@ -1,4 +1,4 @@
-# 🏆 FIFA World Cup 2026™ — WorldCup Hub
+# FIFA World Cup 2026 — WorldCup Hub
 
 Site informativo e interativo sobre a Copa do Mundo FIFA 2026, com álbum digital de figurinhas Panini, contagem regressiva, histórico de edições e calendário de grupos.
 
@@ -13,14 +13,6 @@ Site informativo e interativo sobre a Copa do Mundo FIFA 2026, com álbum digita
 ├── script.js      → Dados do álbum e lógica interativa (JS)
 └── README.md      → Este arquivo
 ```
-
----
-
-## 🚀 Como usar
-
-Basta abrir o `index.html` direto no navegador — não requer servidor, build ou dependências externas.
-
-> ⚠️ Os três arquivos (`index.html`, `styles.css`, `script.js`) precisam estar na **mesma pasta**.
 
 ---
 
@@ -51,27 +43,6 @@ Basta abrir o `index.html` direto no navegador — não requer servidor, build o
 - Histórico de Copas (figurinhas especiais)
 - Extra Stickers
 - Coca-Cola Collection
-
----
-
-## 🛠️ Tecnologias
-
-- **HTML5** semântico, sem frameworks
-- **CSS3** com variáveis customizadas (`--blue`, `--green`, etc.)
-- **JavaScript** vanilla (ES6+), sem dependências
-- **Google Fonts** — Noto Sans
-- **localStorage** para persistência do álbum
-
----
-
-## 📅 Informações da Copa 2026
-
-- **Datas:** 11 de junho — 19 de julho de 2026
-- **Sedes:** Estados Unidos, México e Canadá
-- **Seleções:** 48
-- **Jogos:** 104
-- **Estádios:** 16
-- **Primeiro jogo:** México vs África do Sul — 11 Jun 2026, 17h ET
 
 ---
 
